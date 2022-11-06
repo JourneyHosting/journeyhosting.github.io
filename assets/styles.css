@@ -1,0 +1,31 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #120817;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 900;
+    margin: 0;
+}
+
+p {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin: 0;
+}
+
+.logo {
+    height: 25vw;
+    max-width: 70vw;
+}
