@@ -1,1 +1,3 @@
-# journeyhosting.github.io
+# journeyhosting.net
+
+The temporary coming soon page for JH
