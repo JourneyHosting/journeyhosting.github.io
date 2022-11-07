@@ -16,21 +16,25 @@ html, body {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+
+    text-align: center;
 }
 
 h1 {
     font-size: 3rem;
     font-weight: 900;
     margin: 0;
+    padding: 0 2rem;
 }
 
 p {
     font-size: 1.5rem;
     font-weight: 400;
     margin: 0;
+    padding: 0 2rem;
 }
 
 .logo {
-    height: 25vw;
-    max-width: 70vw;
+    width: 80vw;
+    max-width: 300px;
 }
